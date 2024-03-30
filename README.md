@@ -1,4 +1,4 @@
-  # GRIP-TASKjan2024Payment gateway Integration
+  # Payment gateway IntegrationGRIP-TASKjan2024
 The Sparks foundation Task
 Payment gateway integration #task3 #GRIPMAY2024
 
